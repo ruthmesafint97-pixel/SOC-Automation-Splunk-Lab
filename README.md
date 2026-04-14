@@ -1,6 +1,6 @@
 1. Reconnaissance
 I used Zenmap to identify the attack surface. 
-![Port Scan](01_Recon_Port_Scan.png)
+![Port Scan](01_Recon_Port_Scan.jpg)
 ![Topology](02_Recon_Network_Topology.png)
 
 2. Exploitation
